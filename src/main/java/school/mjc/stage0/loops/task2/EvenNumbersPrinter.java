@@ -9,7 +9,7 @@ public class EvenNumbersPrinter {
             if (numbersEvenBeforeIntTillInclusive % 2 == 0) {
                 System.out.println(numbersEvenBeforeIntTillInclusive);
             }
-            }
+        }
 
     }
 }
